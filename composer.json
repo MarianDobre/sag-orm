@@ -1,0 +1,7 @@
+{
+  "description" : "SAG ORM",
+  "name" : "mariandobre/sag-orm",
+  "require": {
+    "php": ">=5.3"
+  }
+}
